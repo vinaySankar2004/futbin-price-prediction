@@ -54,14 +54,19 @@ The project involves:
 - **Approach:** Used a select set of features with an **XGBoost model**, setting the target as the **price on the 7th day** and incorporating time-lagged data.
 - **Challenges:** Model was overly dependent on **price at day 1**, leading to poor generalization.
 
-ADD A PIC HERE
+<p align="center">
+  <img src="images/img_1.png" width="600">
+</p>
+
 - **Results:**
   - **MAE:** 76,569
   - **RMSE:** 467,064
   - Poor performance indicated the need to redefine the target variable.
 - **Next Steps:** Shifted target to **price percent change** to reduce reliance on absolute price values.
 
-ADD A PIC HERE 
+<p align="center">
+  <img src="images/img_2.png" width="600">
+</p>
 
 **Refining the Approach: Time-Series Representation**
 
@@ -77,7 +82,9 @@ ADD A PIC HERE
   - Test MAE: ~30,000
 - **Results:** Showed slight improvement but still lacked strong sequential learning.
 
-ADD A PIC HERE
+<p align="center">
+  <img src="images/img_3.png" width="600">
+</p>
 
 **Third Model: Convolutional Neural Network (CNN)**
 
