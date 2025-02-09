@@ -1,4 +1,4 @@
-****FUTBIN Price Prediction Project****
+# FUTBIN Price Prediction Project
 
 **Author:** Vinayak Sankaranarayanan
 
