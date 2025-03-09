@@ -1,4 +1,4 @@
-# FUTBIN Price Prediction Project
+# FUTBIN Price Prediction 
 
 **Author:** Vinayak Sankaranarayanan
 
@@ -6,7 +6,7 @@
 
 **1\. Project Purpose**
 
-The FUTBIN Price Prediction Project develops a machine learning model to forecast price trends for all FC25 Ultimate Team (FUT) player cards using historical data from FC25, FC24, FIFA 23, and FIFA 22. The project aims to identify short-term fluctuations and long-term lifecycle trends, independent of external short-term factors like SBCs and promos. Leveraging multi-year data provides insights into market behavior, helping users make informed investment decisions efficiently.
+The FUTBIN Price Prediction project develops a machine learning model to forecast price trends for all FC25 Ultimate Team (FUT) player cards using historical data from FC25, FC24, FIFA 23, and FIFA 22. The project aims to identify short-term fluctuations and long-term lifecycle trends, independent of external short-term factors like SBCs and promos. Leveraging multi-year data provides insights into market behavior, helping users make informed investment decisions efficiently.
 
 **Methodology**
 
