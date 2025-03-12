@@ -80,7 +80,7 @@ The project involves:
 - **Challenges:**
   - Struggled with time-dependency despite capturing nonlinear patterns.
   - Test MAE: ~30,000
-- **Results:** Showed slight improvement but still lacked strong sequential learning.
+- **Results:** Showed much improvement but still lacked strong sequential learning especially for cards with higher prices.
 
 <p align="center">
   <img src="images/img_3.png" width="600">
